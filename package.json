@@ -1,0 +1,18 @@
+{
+  "name": "clean-desk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jack Reed",
+  "license": "MIT",
+  "bin": {
+    "clean-desk": "index.js"
+  },
+  "dependencies": {
+    "execa": "^0.10.0",
+    "meow": "^4.0.0"
+  }
+}
